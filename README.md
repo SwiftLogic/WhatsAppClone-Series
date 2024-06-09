@@ -1,3 +1,6 @@
+
+![Copy of SocialPost](https://github.com/SwiftLogic/WhatsAppClone-Series/assets/40702459/f6094d2b-4455-49a5-98fe-0bf74ca0b438)
+
 # WhatsAppClone-Series
 
 👋Yo! Welcome to this exciting [**new series**](https://youtube.com/playlist?list=PLpOMyrbvDL0dcXlDsiitj2RITp5n9VMyx&si=-5uRMIspjzOpzNoU) from [**SwiftSkool**](https://www.youtube.com/@SwiftSkool)! 
@@ -42,6 +45,10 @@ The goal is to build an iOS app that's beyond just a simple hello world or calcu
 Here’s the link to the playlist: https://youtube.com/playlist?list=PLpOMyrbvDL0dcXlDsiitj2RITp5n9VMyx&si=-5uRMIspjzOpzNoU
 
 #SwiftUI #UIKit #iOSDevelopment #MobileEngineering #Firebase #StreamSDK #CloudFunctions #Javascript #ChatApplication
+
+
+## 📲 Demo 
+
 
 
 ## 🔗 Resources:
