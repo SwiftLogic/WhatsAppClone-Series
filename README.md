@@ -36,6 +36,8 @@ Here’s a more extensive list of the feature sets we will be building in this s
 - [x] 📲 VOIP Notifications 
 - [x] 😅 Profile Updates 
 - [x] 📟 Chat Messages Pagination
+- [x] 🌗 Dark Mode & Light Mode Support
+
 And a lot more. 
 
 ## 🎯 The Goal 
@@ -48,6 +50,10 @@ Here’s the link to the playlist: https://youtube.com/playlist?list=PLpOMyrbvDL
 
 
 ## 📲 Demo 
+
+[![Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQWRbUqcHm1g%26list%3DPLpOMyrbvDL0dcXlDsiitj2RITp5n9VMyx%26index%3D1)](https://www.youtube.com/watch?v=QWRbUqcHm1g&list=PLpOMyrbvDL0dcXlDsiitj2RITp5n9VMyx&index=1)
+
+
 
 
 
