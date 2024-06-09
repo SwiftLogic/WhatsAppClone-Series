@@ -32,7 +32,7 @@ Here’s a more extensive list of the feature sets we will be building in this s
 - [x] 📟 Chat Messages Pagination
 And a lot more. 
 
-## The Goal 
+## 🎯 The Goal 
 
 The goal is to build an iOS app that's beyond just a simple hello world or calculator program, while leveraging SwiftUI speed of development with UIKit’s performance for larger datasets.
 
@@ -41,7 +41,7 @@ Here’s the link to the playlist: https://youtube.com/playlist?list=PLpOMyrbvDL
 #SwiftUI #UIKit #iOSDevelopment #MobileEngineering #Firebase #StreamSDK #CloudFunctions #Javascript #ChatApplication
 
 
-🔗 Resources:
+## 🔗 Resources:
 
 Assets Download: [https://github.com/SwiftLogic/WhatsAppClone-Assets]
 
