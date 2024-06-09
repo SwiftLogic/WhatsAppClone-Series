@@ -1,6 +1,9 @@
 # WhatsAppClone-Series
 
-👋 Welcome to this exciting new series! In this series, we're going to be diving deep into building a WhatsApp iOS clone using SwiftUI, Firebase, and StreamSDK. Whether you're a beginner looking to get started with iOS development or an experienced developer looking to expand your skills, this series has something for everyone!
+👋Yo! Welcome to this exciting [**new series**](https://youtube.com/playlist?list=PLpOMyrbvDL0dcXlDsiitj2RITp5n9VMyx&si=-5uRMIspjzOpzNoU) from [**SwiftSkool**](https://www.youtube.com/@SwiftSkool)! 
+
+
+In this series, we're going to be diving deep into building a WhatsApp iOS clone using SwiftUI, Firebase, and StreamSDK. Whether you're a beginner looking to get started with iOS development or an experienced developer looking to expand your skills, this series has something for everyone!
 
 
 While it is borderline impossible to create a 100% clone of any complex application, especially one that was built and is maintained by dozens of Software Engineers, in this WhatsApp clone Series we are going to attempt to cover 90% of the big client side functionalities.
